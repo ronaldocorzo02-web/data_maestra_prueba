@@ -1,5 +1,6 @@
 # data_maestra_prueba
-Prueba técnica data engineer
+Prueba técnica data engineer para diseñar una solución análitica que permite monitorear el proceso de la empresa ConsumaCorp S.A.
+
 Se añaden los 5 archivos SQL para ejecución de los queries solicitados. La información consume data del proyecto data_maestra_prueba y el dataset data_maestra para resolver los enunciados en cada nivel indicado bajo sentencias SQL.
 
 Para el caso en cuestión se tomaron las siguientes consideraciones:
